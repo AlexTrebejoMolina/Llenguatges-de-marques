@@ -1,0 +1,267 @@
+﻿body {
+    background-image: url(imagen/fondo_pantalla.jpg);
+    background-size: cover;
+    
+}
+
+p, a, b { 
+    font-family: Arial, Helvetica, sans-serif;
+    color: inherit; 
+}
+
+
+.recuadro {
+    margin-left:100px;
+    color: #ffffff;
+    position: relative;
+    padding-bottom:500px;
+}
+.time {
+    position:absolute;
+    top:0px;
+    left:130px;
+
+
+}
+.mail {
+    position:absolute;
+    top:10px;
+    right: 100px;
+
+
+
+}
+.mail1 {
+    position: absolute;
+    top: 10px;
+    right: 350px;
+}
+
+.mail2 {
+    position: absolute;
+    bottom: 20px;
+    right: 130px;
+}
+
+
+.mail3 {
+    position: absolute;
+    bottom: 20px;
+    right: 200px;
+}
+
+.negro {
+    background: #ffffff;
+    position: absolute;
+    top: 55px;
+    left: 0px;
+    width: 1350px;
+    height: 50px;
+    color:#000000;
+}
+
+.home {
+    color:rgb(0, 0, 0);
+    position:absolute;
+    top:0px;
+    left:25px;
+
+
+}
+.features {
+    position:absolute;
+    top:0px;
+    left:100px;
+    color:rgb(0, 0, 0);
+}
+
+
+.short {
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    color: rgb(0, 0, 0);
+}
+
+
+.Port {
+    position: absolute;
+    top: 0px;
+    left: 300px;
+    color: rgb(0, 0, 0);
+}
+
+
+.Blog {
+    position: absolute;
+    top: 0px;
+    left: 400px;
+    color: rgb(0, 0, 0);
+}
+
+
+.Contact {
+    position: absolute;
+    top: 0px;
+    left: 500px;
+    color: rgb(0, 0, 0);
+}
+.Links {
+    position: absolute;
+    top: 0px;
+    left: 600px;
+    color: rgb(0, 0, 0);
+}
+.Altres {
+    position: absolute;
+    top: 0px;
+    left: 700px;
+    color: rgb(0, 0, 0);
+}
+
+
+.imagen {
+    position:absolute;
+    top:110px;
+    left:0px;
+    width:1350px;
+    height:500px;
+    opacity: 0.5;
+
+
+}
+
+.director {
+    position:absolute;
+    top:70px;
+    left:0px;
+    width:150px;
+    height:150px;
+}
+
+.director1 {
+    position:absolute;
+    top:70px;
+    left:200px;
+    width:150px;
+    height:150px;
+    color:white;
+}
+.PersonajePrincipal_V {
+    position:absolute;
+    top:70px;
+    left:400px;
+    width:150px;
+    height: 150px;
+    opacity: 0,5;
+}
+
+.director3 {
+    position:absolute;
+    top:70px;
+    left:600px;
+    width:150px;
+    height:150px;
+    color:white;
+}.director4 {
+    position:absolute;
+    top:70px;
+    left:800px;
+    width:150px;
+    height:150px;
+    opacity: 0,5;
+
+}
+
+.director5 {
+    position:absolute;
+    top:70px;
+    left:1000px;
+    width:150px;
+    height:150px;
+    color:white;
+}.director6 {
+    position:absolute;
+    top:70px;
+    left:0px;
+    width:150px;
+    height:150px;
+    opacity: 0,5;
+}
+
+.director7 {
+    position:absolute;
+    top:70px;
+    left:200px;
+    width:150px;
+    height:150px;
+    color: black;
+}.director8 {
+    position:absolute;
+    top:70px;
+    left:0px;
+    width:150px;
+    height:150px;
+}
+
+.director9 {
+    position:absolute;
+    top:70px;
+    left:200px;
+    width:150px;
+    height:150px;
+    color: black;
+}
+.buscador {
+    position:absolute;
+    top:15px;
+    right:20px;
+
+}
+
+.texto24 {
+    position:absolute;
+    top:70px;
+    left:0px;
+    width:700px;
+    height:500px;
+    color:#ffffff;
+}
+.video {
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    width: 1000px;
+    height: 500px;
+
+}
+
+.formulario {
+    position: absolute;
+    top:150px;
+    left: 300px;
+    color: #ffffff;
+}
+
+.lista {
+    position: absolute;
+    top:150px;
+    left: 300px;
+    color: #ffffff;
+    font-size: 25px;
+    line-height: 25px;
+    vertical-align: -11px;
+    width: 30px;
+}
+.Streeming {
+    position: absolute;
+    top: 125px;
+    left: 200px;
+    width: 810px;
+    height: 567px;
+    
+
+
+}
+
+
